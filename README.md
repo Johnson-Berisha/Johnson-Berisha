@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I'm Johnson 
+
+Hi, im currently working on easyCSS my CSS FrameWork, and i'm learning JS. <br> I'm currently aiming for 200 followers in Twitter. <br>
+Also, I'm a normal web develepor(i spelled that wrong didin't i) with over 2.5 years of exp. Thats it. See ya!
+
 <!--
 **Johnson-Berisha/Johnson-Berisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
