@@ -2,9 +2,13 @@
 
 ### I'm Johnson 
 
-Hi, im currently working on easyCSS my CSS FrameWork, and i'm learning JS. <br> I'm currently aiming for 200 followers in Twitter. <br>
-Also, I'm a normal web develepor(i spelled that wrong didin't i) with over 2.5 years of exp. Thats it. See ya!
+I'm currently working on a CSS framework and some other stuff and i'm learning some Javascript, im open for collaborations by the way! Im a CSS lover and if you have questions about me or CSS, ask me anytime! If you want, you can reach me via email at: gjonsonberisha@gmail.com
 
+Fun Fact:
+My name is actually Gjonson Berisha, but in english it is hard to pronounce, so everyone calls me Johnson Berisha 😁
+I also have a brown and a blue eye, interesting? 
+
+### See ya 🙋‍♂️
 <!--
 **Johnson-Berisha/Johnson-Berisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
