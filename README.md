@@ -1,25 +1,26 @@
-### Hi there 👋
+# Hey, I'm Gjonson 👋
 
-### I'm Johnson 
+- 🌍 Based in Klina, Kosovo  
+- 💻 Creative Web Developer & CSS Enthusiast
+- ⚽ Football fan & coding lover
+- 🔬 Passionate about physics and clean code  
+- 🚀 Always leveling up my skills and productivity  
 
-I'm currently working on a CSS framework and some other stuff and i'm learning some Javascript, im open for collaborations by the way! Im a CSS lover and if you have questions about me or CSS, ask me anytime! If you want, you can reach me via email at: gjonsonberisha@gmail.com
+### What I do  
+- Craft clean, responsive websites  
+- Build smooth UI/UX with pure CSS  
+- Experiment with new web tech & frameworks  
 
-Fun Fact:
-My name is actually Gjonson Berisha, but in english it is hard to pronounce, so everyone calls me Johnson Berisha 😁
-I also have a brown and a blue eye, interesting? 
+```
+GJONSON - BERISHA
+=================
+WEB DEV - CSS Enthusiast
 
-### See ya 🙋‍♂️
-<!--
-**Johnson-Berisha/Johnson-Berisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open for Freelancing
+```
+### My Skills
+`HTML` `CSS` `JS` `NEXT` `REACT` `GSAP` `LENIS` etc...
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect!  
+[LinkedIn](https://linkedin.com/in/gjonson) | [Twitter](https://twitter.com/gjonson) | [Portfolio](https://yourwebsite.com)
