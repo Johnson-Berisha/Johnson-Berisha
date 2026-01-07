@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/kosovo/USERNAME.svg)](https://user-badge.committers.top/kosovo/Johnson-Berisha)
+
 # Hey, I'm Gjonson 👋
 
 🌍 **Location**: Klina, Kosovo  
