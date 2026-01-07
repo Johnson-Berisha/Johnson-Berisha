@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/kosovo/USERNAME.svg)](https://user-badge.committers.top/kosovo/Johnson-Berisha)
+[![committers.top badge](https://user-badge.committers.top/kosovo/USERNAME.svg)](https://user-badge.committers.top/kosovo/johnson-berisha)
 
 # Hey, I'm Gjonson 👋
 
