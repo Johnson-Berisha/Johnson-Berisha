@@ -6,3 +6,5 @@ const Gjonson = new WebDeveloper({
   stack: ["Next.js", "CSS", "JavaScript", "Tailwind"],
   mindset: "Keep It Simple",
 });
+```
+![GitHub](https://img.shields.io/badge/gjnsn-brsh-black?labelColor=red)
