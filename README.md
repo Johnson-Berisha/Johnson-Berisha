@@ -1,6 +1,5 @@
-
 ```js
-import Web Developer from Kosovo
+import WebDeveloper from Kosovo
 
 const Gjonson = new WebDeveloper({
   focus: ["Frontend", "UI/UX", "Performance"],
